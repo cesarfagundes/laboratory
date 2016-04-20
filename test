@@ -1,0 +1,55 @@
+Prezado Sr. Jefferson,
+
+É importante que os passos a seguir sejam verificados e ao final que nos retorne com todas as informações obtidas e solicitadas. Somente assim poderemos dar prosseguimento no seu atendimento, de forma a agilizar a solução.
+
+Observe que o certificado do tipo A1 são instalados por padrão na forma de um arquivo do tipo backup(.p12),na pasta pessoal do usuário logado(C:\usuarios\...).
+
+Para publicá-lo é preciso importá-lo para o seu navegador:
+
+IE -- Duplo clique no arquivo .p12 e seguir as orientações do assistente (a senha solicitada será a mesma de 6 digitos informada no momento da instalação, observe o Caps LOck que é difenciado pela aplicação).
+
+Firefox -- Menu opções , avançado ,aba Certificado ,opção Certificado ,aba Meus certificados ,opção importar ,selecionar o arquivo .p12 na pasta do usuário.
+
+Autoridades Certificadoras:
+- CORREIOS ( https://certificados.serpro.gov.br/arcorreiosrfb/ )
+- SERPRORFB ( https://certificados.serpro.gov.br/arserprorfb/ )
+- CCDSERPRO ( https://certificados.serpro.gov.br/arserpro/ )
+
+Caso os passos acima não tenham sido suficientes para uma solução, favor realizar os passos que se seguem:
+
+- Acessar a página da Autoridade Certificadora onde o certificado foi solicitado;
+Autoridades Certificadoras:
+- CORREIOS ( https://certificados.serpro.gov.br/arcorreiosrfb/ )
+- SERPRORFB ( https://certificados.serpro.gov.br/arserprorfb/ )
+- CCDSERPRO ( https://certificados.serpro.gov.br/arserpro/ )
+
+- No menu “MEU CERTIFICADO” e na opção “CONSULTAR”;
+- Preencha as informações solicitadas e verifique o status do “Pedido de Certificado/Certificado”.
+
+Caso o resultado seja:
+→ Status do Pedido: “APROVADO”, utilize o navegador Mozilla Firefox para baixar novamente.
+→ Status do Certificado: “ASSINADO’ + Status do Pedido: “CERTIFICADO EMITIDO”, verifique se existe o arquivo .P12 na pasta pessoal do seu computador.
+→ Status do Certificado: ASSINADO NÃO INSTALADO, retorne para nós, as informações abaixo:
+
+# Número de Referência/Solicitação do Certificado:
+# Data da Aprovação:
+# Autoridade Certificadora (SERPRO, CORREIOS ou OUTRAS):
+# Se Correios, Agencia/Rua/Bairro:
+# Cidade/Estado da Aprovação:
+# Tipo do Certificado (e-CPF A1, e-CPF A3, e-CNPJ A1, e-CNPJ A3):
+# Pessoa, telefone FIXO com DDD e horário para contato:
+# CPF e Nome do titular:
+# Se empresa, CNPJ / Razão Social:
+# Agentes de registro que assinaram (2a. página do Termo):
+# Código/Mensagem completa de erro/problema, e em que momento ocorre:
+# Se certificado tipo A3, Marca e modelo da mídia (token/cartão):
+# Token fornecido pelo Serpro ? (S/N):
+
+ATENÇÃO:
+NÃO ESQUECER DE ENVIAR OS NOMES DOS AGENTES DE REGISTROS QUE ASSINARAM O TERMO
+
+Caos todos os passos acima tenham sido seguidos e não tenha obtido sucesso, nos retorne para as providências como já citamos no inicio, porém não esqueça de nos repassar todas as informações solicitadas/obtidas.
+
+Atenciosamente,
+
+SERPRO - Atendimento Certificação Digital
